@@ -1,0 +1,11 @@
+torch==1.5.0
+tqdm
+PIL
+lmdb
+opencv-python
+numpy
+six
+torchvision==0.6.0
+editdistance
+scipy==1.2.0
+tensorflow==2.4.1
